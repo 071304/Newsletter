@@ -1,0 +1,125 @@
+body { 
+  background-color: #f5f5dc;
+}
+
+
+.title { 
+  display: flex;
+  justify-content: space-around;
+  background-color: #fefefa;
+ 
+}
+
+.Everday-Smarter  {
+  color: blueviolet;
+}
+
+a { 
+  text-decoration: none;
+  color: black;
+}
+
+.underline:hover { 
+ text-decoration: underline;
+}
+
+.subcontainer:hover { 
+  background-color: lightblue;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-top: 2px;
+
+}
+
+.subscribe {
+  color: blueviolet;
+  padding: 10px 20px;
+}
+
+
+.Wrapper { 
+ display: flex;
+ gap: 1.5rem;
+ justify-content: flex-start;
+}
+
+
+.slogan { 
+  width: 600px;
+  height: 350px;
+  background-color: lightskyblue;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px; 
+  border-radius: 10px;
+  
+}
+
+.margin { 
+  margin-left: 20px;
+}
+
+.header-message { 
+  font-size: 2rem;
+}
+
+.message { 
+  font-size: 1.3rem;
+}
+
+
+input { 
+  display: block;
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 20px; 
+  margin-right: 100px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  
+}
+
+
+
+button { 
+  background-color: blueviolet;
+  color: white;
+  display: block;
+  width: 445px;
+  margin-left: 20px;
+  margin-right: 100px;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  }
+
+
+  h3 { 
+  font-weight: 800;
+}
+
+
+.news-text-color { 
+  color: black;
+}
+
+
+h5 { 
+  font-size: large;
+}
+
+
+p{ 
+  font-size: small;
+}
+
+.summary {
+  padding: 5px 20px 2px;
+}
+
+img { 
+  border-radius: 10px;
+}
+
+.image  {
+  padding: 20px 5px;
+}
